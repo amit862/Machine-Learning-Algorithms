@@ -31,7 +31,7 @@ The repository contains the following machine learning algorithms:
 10. Naive Bayes
 11. Gradient Boosting
 
-Each algorithm has its own directory with code sample, data sets, and detailed explanations.
+Each algorithm has its own directory with code samples, data sets, and detailed explanations.
 
 ## Directory Structure
 
