@@ -17,7 +17,7 @@ This repository aim to provide an accessible and comprehensive resource for indi
 
 ## Algorithms Included
 
-The repository contains the following machine learning algorithms:
+The repository contains the following machine learning algorithms :
 
 1. Linear Regression
 2. Logistic Regression
