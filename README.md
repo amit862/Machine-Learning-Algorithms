@@ -13,11 +13,11 @@ Welcome to the Machine Learning Algorithms Repository! This repository is a coll
 
 ## Introduction
 
-This repository aim to provide an accessible and comprehensive resource for individuals interested in understanding, implementing, or experimenting with machine learning algorithms. The implementations are available in Python, Java, and other languages, ensuring a wide array of choices for different user preferences.
+This repository aims to provide an accessible and comprehensive resource for individuals interested in understanding, implementing, or experimenting with machine learning algorithms. The implementations are available in Python, Java, and other languages, ensuring a wide array of choices for different user preferences.
 
 ## Algorithms Included
 
-The repository contains the following machine learning algorithms :
+The repository contains the following machine-learning algorithms :
 
 1. Linear Regression
 2. Logistic Regression
