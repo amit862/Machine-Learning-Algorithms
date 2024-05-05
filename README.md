@@ -35,7 +35,7 @@ Each algorithm has its directory with code samples, data sets, and detailed expl
 
 ## Directory Structure
 
-The repository is organized as follows:
+The repository is organized as follows :
 
 - **`/Algorithm_Name`**: Main directory for each algorithm.
   - **`README.md`**: Description and details about the algorithm.
