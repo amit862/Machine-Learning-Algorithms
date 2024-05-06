@@ -1,6 +1,6 @@
  # Machine Learning Algorithms
 
-Welcome to the Machine Learning Algorithms Repository! This repository is a collection of various machine-learning algorithms implemented in multiple programming languages. Each algorithm has its own directory with code implementations, explanatory resources, and examples.
+Welcome to the Machine Learning Algorithms Repository! This repository is a collection of machine-learning algorithms implemented in multiple programming languages. Each algorithm has its own directory with code implementations, explanatory resources, and examples.
 
 ## Table of Contents
 
